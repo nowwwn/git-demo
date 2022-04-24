@@ -1,7 +1,7 @@
 hello world
 hello atguigu! hello git! 222222222
 hello atguigu! hello git! 333333333
-hello atguigu! hello git!
+hello atguigu! hello git! 
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
@@ -14,8 +14,6 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git! master test
-hello atguigu! hello git! hot-fix test
-11111111111111111111111111111111111111
-22222222222222222222222222 by lhc
-33333333333333333333333 by dongfang
+hello atguigu! hello git! 
+
 辟邪剑谱 果然厉害
